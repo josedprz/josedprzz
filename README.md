@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **school projects**
 
 - 🌱 I’m currently learning **Mobile Development**
+- 🧠 I’m currently learning **Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
