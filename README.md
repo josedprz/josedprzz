@@ -9,13 +9,13 @@
 
 - 🎯 I'm Currently enrolled on UCamp **Data Science and AI BootCamp** and  some Google and IBM **Data Science and AI courses**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/josedprz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josedprz" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img alt="Jupyter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img alt="csharp" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" /></a>
